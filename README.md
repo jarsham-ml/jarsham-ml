@@ -1,7 +1,7 @@
 Hi 👋 My name is Jarsham Dhir
 =============================
 
-Python Developer
+I'm Python Developer
 ----------------
 
 I've worked using different technologies, both backend and frontend. I'm currently working at NLP project. I've also worked as a freelance and a blogger. 💞️ I’m also looking to collaborate on Data science , ml projects. You can read more about me on my LinkedIn page. Check my Github for some cool things.👀
